@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>S754 Gacha</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<style>
+body { text-align:center; margin-top:60px; background:#111; color:white; font-family:Arial; }
+button { padding:12px 24px; font-size:18px; border-radius:8px; background:gold; border:none; cursor:pointer; }
+.result { margin-top:25px; font-size:24px; font-weight:bold; }
+</style>
+</head>
+<body>
+
+<h1>🎰 S754 Gacha</h1>
+<button onclick="roll()">ROLL</button>
+<div class="result" id="result"></div>
+
+<script>
+function roll(){
+let r=Math.random();
+let reward="";
+if(r<0.05){reward="🔥 S Tier (Legendary)";}
+else if(r<0.25){reward="✨ A Tier (Rare)";}
+else{reward="🎁 B Tier (Common)";}
+document.getElementById("result").innerText=reward;
+}
+</script>
+
+</body>
+</html>
