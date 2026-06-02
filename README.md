@@ -1,3 +1,9 @@
+# S754 Gacha
+
+**Author:** Xenon  
+**Email:** xannrlcs@gmail.com  
+**Website:** https://xenon.dev
+
 # 🎰 S754 Gacha
 
 Simple gacha game dengan random roll mechanics dan collection system
@@ -17,7 +23,7 @@ Simple gacha game dengan random roll mechanics dan collection system
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/xenon231tech/S754-gacha.git
+   git clone https://xenon.dev/S754-gacha.git
    cd S754-gacha
    ```
 
@@ -81,7 +87,7 @@ The website automatically fetches and displays:
 ### GitHub Pages
 1. Go to repository Settings → Pages
 2. Select "main" branch as source
-3. Website will be live at: `https://xenon231tech.github.io/S754-gacha`
+3. Website will be live at: `https://xenon.dev/S754-gacha`
 
 ### Vercel
 1. Connect repository to Vercel
@@ -119,7 +125,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## 📧 Contact
 
-- GitHub: [@xenon231tech](https://github.com/xenon231tech)
+- GitHub: [@xenon231tech](https://xenon.dev)
 - Twitter: [@xenon_d62](https://twitter.com/xenon_d62)
 - Email: contact@xenon.dev
 
